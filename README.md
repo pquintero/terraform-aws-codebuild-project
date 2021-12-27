@@ -3,7 +3,7 @@
 ```hcl
 module "codebuild-project" {
   source  = "pquintero/codebuild-project/aws"
-  version = "0.0.1"
+  version = "0.0.2"
 }
 ```
 
