@@ -27,4 +27,4 @@ pre-commit run -a
 
 ## Autor
  
-Module managed by [pquintero](https://ripley.com.pe)
+Module managed by [pquintero](https://github.com/pquintero/terraform-aws-codebuild-project.git)
